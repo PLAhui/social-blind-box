@@ -5,6 +5,13 @@
 软件架构
 vue+springboot
 
+
+ **搭建教程[搭建教程](https://www.yuque.com/docs/share/6f8e74fe-dfa4-4fee-896c-cc8a70d6f592)** 
+ **源码下载：[源码下载](https://pan.baidu.com/s/173VlNLPT0wlrIjrkTizpvg )** 
+官方搭建售后QQ群：604412091
+搭建问题联系微信：yusouu_com  QQ:1193447180
+
+
 系统截图
 
 ![13278239239736362](https://user-images.githubusercontent.com/35413994/136652444-ff75e38a-1027-44ef-b175-5b959f2d7a73.png)
